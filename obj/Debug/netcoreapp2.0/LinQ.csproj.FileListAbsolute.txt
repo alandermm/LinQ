@@ -1,0 +1,10 @@
+C:\Users\01317235614\backend\LinQ\bin\Debug\netcoreapp2.0\LinQ.deps.json
+C:\Users\01317235614\backend\LinQ\bin\Debug\netcoreapp2.0\LinQ.runtimeconfig.json
+C:\Users\01317235614\backend\LinQ\bin\Debug\netcoreapp2.0\LinQ.runtimeconfig.dev.json
+C:\Users\01317235614\backend\LinQ\bin\Debug\netcoreapp2.0\LinQ.dll
+C:\Users\01317235614\backend\LinQ\bin\Debug\netcoreapp2.0\LinQ.pdb
+C:\Users\01317235614\backend\LinQ\obj\Debug\netcoreapp2.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\01317235614\backend\LinQ\obj\Debug\netcoreapp2.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\01317235614\backend\LinQ\obj\Debug\netcoreapp2.0\LinQ.AssemblyInfo.cs
+C:\Users\01317235614\backend\LinQ\obj\Debug\netcoreapp2.0\LinQ.dll
+C:\Users\01317235614\backend\LinQ\obj\Debug\netcoreapp2.0\LinQ.pdb
